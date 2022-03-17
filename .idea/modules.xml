@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Instagram.iml" filepath="$PROJECT_DIR$/.idea/Instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Netflix/.idea/Netflix.iml" filepath="$PROJECT_DIR$/../Netflix/.idea/Netflix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spotify/.idea/spotify.iml" filepath="$PROJECT_DIR$/../spotify/.idea/spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todorest/.idea/todorest.iml" filepath="$PROJECT_DIR$/../todorest/.idea/todorest.iml" />
+    </modules>
+  </component>
+</project>
